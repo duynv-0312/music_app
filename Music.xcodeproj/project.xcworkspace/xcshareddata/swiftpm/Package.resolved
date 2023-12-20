@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "circularslider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/terlan98/CircularSlider",
+      "state" : {
+        "revision" : "59410a86df6d16b6ee0692dffef15249bed1c8bb",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
